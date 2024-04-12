@@ -1,0 +1,1 @@
+Olá! Sou Dhouglas Stanula, sou analista de quality assurance com inteligência artificial. Estou realizando esse curso da Azure a fim de aperfeiçoar meus conhecimentos na área.
